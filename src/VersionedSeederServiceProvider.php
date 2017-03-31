@@ -17,7 +17,6 @@ class VersionedSeederServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        dd('here');
         //
     }
 
