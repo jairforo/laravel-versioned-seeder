@@ -1,0 +1,10 @@
+/vendor
+/tests/CodeCoverage
+/tests/Report
+/tests/TestDox
+/storage
+composer.lock
+.idea
+.env
+/nbproject
+/public/docs

@@ -2,6 +2,7 @@
 
 namespace NaspersClassifieds\LaravelVersionedSeeder;
 
+use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\ServiceProvider;
 use NaspersClassifieds\LaravelVersionedSeeder\Console\Commands\ResetCommand;
 use NaspersClassifieds\LaravelVersionedSeeder\Console\Commands\SeedCommand;

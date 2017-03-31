@@ -1,6 +1,6 @@
 <?php
 
-namespace NaspersClassifieds\LaravelVersionedSeeder\Console;
+namespace NaspersClassifieds\LaravelVersionedSeeder\Commands;
 
 /**
  * Seeder.php

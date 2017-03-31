@@ -1,6 +1,6 @@
 <?php
 
-namespace NaspersClassifieds\LaravelVersionedSeeder\Console\Commands;
+namespace NaspersClassifieds\LaravelVersionedSeeder\Commands;
 
 /**
  * ResetCommand.php

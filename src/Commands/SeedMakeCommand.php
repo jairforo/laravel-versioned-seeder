@@ -7,12 +7,14 @@
  *
  */
 
-namespace NaspersClassifieds\LaravelVersionedSeeder\Console\Commands;
+namespace NaspersClassifieds\LaravelVersionedSeeder\Commands;
 
 use Illuminate\Database\Console\Seeds\SeederMakeCommand;
 
 class SeedMakeCommand extends SeederMakeCommand
 {
+
+
 
     /**
      * The console command name.
@@ -20,7 +22,6 @@ class SeedMakeCommand extends SeederMakeCommand
      * @var string
      */
     protected $name = 'seed:make';
-
 
     /**
      * Get the destination class path.

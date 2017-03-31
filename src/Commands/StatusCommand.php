@@ -7,7 +7,7 @@
  *
  */
 
-namespace NaspersClassifieds\LaravelVersionedSeeder\Console\Commands;
+namespace NaspersClassifieds\LaravelVersionedSeeder\Commands;
 
 use Illuminate\Database\Console\Migrations\BaseCommand;
 
