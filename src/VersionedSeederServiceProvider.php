@@ -2,12 +2,11 @@
 
 namespace NaspersClassifieds\LaravelVersionedSeeder;
 
-use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\ServiceProvider;
-use NaspersClassifieds\LaravelVersionedSeeder\Console\Commands\ResetCommand;
-use NaspersClassifieds\LaravelVersionedSeeder\Console\Commands\SeedCommand;
-use NaspersClassifieds\LaravelVersionedSeeder\Console\Commands\SeedMakeCommand;
-use NaspersClassifieds\LaravelVersionedSeeder\Console\Commands\StatusCommand;
+use NaspersClassifieds\LaravelVersionedSeeder\Commands\ResetCommand;
+use NaspersClassifieds\LaravelVersionedSeeder\Commands\SeedCommand;
+use NaspersClassifieds\LaravelVersionedSeeder\Commands\SeedMakeCommand;
+use NaspersClassifieds\LaravelVersionedSeeder\Commands\StatusCommand;
 
 class VersionedSeederServiceProvider extends ServiceProvider
 {
