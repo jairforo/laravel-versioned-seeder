@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NaspersClassifieds\\LaravelVersionedSeeder": "src/"
+            "NaspersClassifieds\\LaravelVersionedSeeder\\": "src/"
         }
     },
     "autoload-dev": {
